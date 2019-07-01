@@ -21,7 +21,7 @@ pitch: |
 img: /images/formations/ansible.png
 formateur_img: /images/wewes/carre-aurelien-maury.png
 subtitle: |
-    Notre prochaine formation<br>
+    Nos prochaines formations<br>
     24 et 25 octobre 2019<br>
     19 et 20 mars 2020
 pdf: /pdf/Programme-de-formation-Ansible.pdf
