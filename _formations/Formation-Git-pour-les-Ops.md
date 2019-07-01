@@ -9,7 +9,7 @@ img: /images/formations/git-pour-les-ops.png
 formateur_img: /images/wewes/Carre-Lilian-Deloche.jpg
 subtitle: |
     Nos prochaines formations<br>
-    Dates à venir
+    26 septembre 2019<br>
 pdf: /pdf/Programme-de-formation-Git-pour-les-ops.pdf
 duree: 1 jour
 tarif: 800 €
